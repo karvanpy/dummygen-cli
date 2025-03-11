@@ -1,13 +1,11 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name='dummygen-cli',
-    version='1.0.0',
-    packages=find_packages(where='src'),
-    package_dir={'': 'src'},
+    version='0.1.2',
     entry_points={
         'console_scripts': [
-            'dummygen-cli=dummygen_cli.dummygen_cli:main',
+            'dummygen-cli=dummygen_cli:main',
         ],
     },
     install_requires=[
