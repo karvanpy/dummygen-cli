@@ -20,6 +20,7 @@ A simple Python script to generate dummy files of specified sizes.
 
 ## Usage
 
+0. Run without installation using `uvx dummygen-cli.py`
 1. Run the script using `python dummygen-cli.py`
 2. Follow the prompts to input the desired filename and size
 3. The script will generate a dummy file of the specified size
