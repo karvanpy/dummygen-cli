@@ -2,10 +2,11 @@ from setuptools import setup
 
 setup(
     name='dummygen-cli',
-    version='0.1.2',
+    version='0.1.3',
+    packages=['dummygen_cli'],
     entry_points={
         'console_scripts': [
-            'dummygen-cli=dummygen_cli:main',
+            'dummygen-cli = dummygen_cli.dummygen_cli:main',
         ],
     },
     install_requires=[
