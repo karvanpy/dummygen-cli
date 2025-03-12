@@ -2,6 +2,11 @@
 
 A command-line tool to quickly generate dummy files of specified sizes.
 
+[![PyPI - Version](https://img.shields.io/pypi/v/dummygen-cli)](https://pypi.org/project/dummygen-cli/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Versions](https://img.shields.io/pypi/pyversions/dummygen-cli)](https://pypi.org/project/dummygen-cli/)
+
+
 [![asciicast](https://asciinema.org/a/707507.svg)](https://asciinema.org/a/707507)
 
 ## Features
